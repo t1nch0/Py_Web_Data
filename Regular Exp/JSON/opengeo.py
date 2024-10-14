@@ -46,3 +46,4 @@ while True:
     print(plus_code)
     # location = js['features'][0]['properties']['formatted']
     # print(location)
+    # 9F5W8CM2+CJ
